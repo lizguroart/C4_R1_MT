@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 
 /**
  *
- * @author bmao9
+ * @author lizguro
  */
 
 @Data
